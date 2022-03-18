@@ -2,3 +2,4 @@
 Touched by chjunyo-sub
 
 print("hello world!")
+print("1")
